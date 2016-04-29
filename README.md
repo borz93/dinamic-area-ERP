@@ -10,4 +10,4 @@ Usar los siguientes comando en la raiz del proyecto
 * bower update
 * composer dump-autoload
 
-Renonmbrar el archivo .env.example a .env y configurar para conectar a la base de datos.
+Renombrar el archivo .env.example a .env y configurar para conectar a la base de datos.
